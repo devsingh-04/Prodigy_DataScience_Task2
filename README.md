@@ -14,13 +14,16 @@ class,
 and whether they survived the disaster. 
 The dataset can be found on Kaggle's Titanic competition page.
 
-Features
+FEATURES
 
-Data Cleaning: Handling missing values, dropping irrelevant columns, and ensuring the data is in the correct format.
+DATA CLEANING:
+Handling missing values, dropping irrelevant columns, and ensuring the data is in the correct format.
 
-Exploratory Data Analysis (EDA): Generating summary statistics, visualizing distributions, and exploring relationships between variables.
+EXPLORATORY DATA ANALYSIS:
+Generating summary statistics, visualizing distributions, and exploring relationships between variables.
 
-Visualization: Using Matplotlib and Seaborn to create informative plots that reveal insights into the data.
+VISUALISATION:
+Using Matplotlib and Seaborn to create informative plots that reveal insights into the data.
 
 Data Cleaning Steps
 
@@ -30,6 +33,7 @@ Handling Missing Values:
 Filled missing Age values with the median age.
 Filled missing Embarked values with the most common port.
 Dropped the Cabin column due to a high number of missing values.
+
 Verification:
 
 Ensured there are no more missing values.
